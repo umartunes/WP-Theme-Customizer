@@ -21,8 +21,7 @@ Supercharge any wordpress site with WP Theme Customizer and give a premium look 
 = Demo =
 WP Theme Customizer demo is available at [phpbaba.com](http://phpbaba.com/wp-theme-customizer) - a "Settings" button at the left.
 
-= Go Pro =
-__[WP Theme Customizer Pro](http://codecanyon.net/item/wp-theme-customizer/4983056?ref=phpbaba) adds even more features, like:
+= Go Pro = [WP Theme Customizer Pro](http://codecanyon.net/item/wp-theme-customizer/4983056?ref=phpbaba) adds even more features:
 
 Features include:
 
