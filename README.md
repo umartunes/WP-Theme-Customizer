@@ -1,9 +1,15 @@
 === WP Theme Customizer by phpbaba ===
+
 Contributors: phpbaba
+
 Tags: color palattes, color picker, theme designer, theme customizer, background changer, snow, rain, effects
+
 Requires at least: 3.0
+
 Tested up to: 3.5
+
 Stable tag: 1.0
+
 
 Supercharge any wordpress site with WP Theme Customizer and give a premium look to your theme.
 
